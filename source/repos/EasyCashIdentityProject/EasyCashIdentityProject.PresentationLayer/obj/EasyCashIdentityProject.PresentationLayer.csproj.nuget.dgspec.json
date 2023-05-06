@@ -35,6 +35,9 @@
               "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj": {
                 "projectPath": "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj"
               },
+              "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.DtoLayer\\EasyCashIdentityProject.DtoLayer.csproj"
+              },
               "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj": {
                 "projectPath": "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj"
               }
@@ -51,6 +54,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.16, )"

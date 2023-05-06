@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "e7ydy5dcX3SpzBTEyXBaDgH5zXdSOjAKvR3YTbb7vFOXpvYpMFGKM/Rar1rcC4sE+YpH+Bs3i+UrB1I9MQUjtA==",
+  "dgSpecHash": "7mbIS0gXXiH9CQkQ0ljxkJ+XIDZ5To56+q81dkZ3pWgQ8v+OFJMAFbL8rWsSGzAwo2zQxTdkYQaRNYAm3CeQ5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Atilla\\source\\repos\\EasyCashIdentityProject\\EasyCashIdentityProject.PresentationLayer\\EasyCashIdentityProject.PresentationLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Atilla\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Atilla\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Atilla\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\Atilla\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Atilla\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
     "C:\\Users\\Atilla\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
