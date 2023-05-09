@@ -1,11 +1,11 @@
 ﻿namespace EasyCashIdentityProject.DataAccessLayer.Abstract
 {
-    public interface IGenericDal<T> where T : class
+    public interface IGenericDal<TEntity> where TEntity : class
     {
-        void Insert(T entity);
-        void Update(T entity);
-        void Delete(T entity);
-        T GetById(int id);
-        List<T> GetAll();
+        void Add(TEntity entity);
+        void Update(TEntity entity);
+        void Delete(TEntity entity);
+        TEntity GetById(int id);
+        List<TEntity> GetAll();
     }
 }
