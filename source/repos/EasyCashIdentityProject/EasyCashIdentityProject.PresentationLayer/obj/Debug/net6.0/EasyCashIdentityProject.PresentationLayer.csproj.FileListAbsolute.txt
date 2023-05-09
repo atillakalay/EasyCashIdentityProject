@@ -80,3 +80,7 @@ C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.Pre
 C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\obj\Debug\net6.0\EasyCashIdentityProject.PresentationLayer.pdb
 C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\obj\Debug\net6.0\EasyCashIdentityProject.PresentationLayer.genruntimeconfig.cache
 C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.PresentationLayer.dll
+C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Atilla\source\repos\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer\obj\Debug\net6.0\EasyCashIdentityProject.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
